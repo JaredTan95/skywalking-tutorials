@@ -20,7 +20,7 @@
 - 将`apm-collector/apm-collector-remote/apm-remote-grpc-provider/target/generated-sources/protobuf`目录下面`grpc-java`和`java`目录右键设置为`Generated Rources Root`.
 
 ## Elasticsearch 启动：
-[https://github.com/JaredTan95/skywalking-docker/blob/master/elasticsearch-5.6.10-Zone-Asia-SH/README.md](https://github.com/JaredTan95/skywalking-docker/blob/master/elasticsearch-5.6.10-Zone-Asia-SH/README.md)
+[https://github.com/JaredTan95/skywalking-docker/blob/master/elasticsearch-Zone-Asia-SH/5.6.10/README.md](https://github.com/JaredTan95/skywalking-docker/blob/master/elasticsearch-Zone-Asia-SH/5.6.10/README.md)
 
 ## Skywalking 相关配置说明
 ```
